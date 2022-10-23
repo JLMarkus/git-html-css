@@ -2,7 +2,7 @@ body {
   background-color: lightskyblue;
 }
 
-h1, h2 {
+h1, h2, h3 {
   text-decoration: underline;
 }
 
@@ -26,5 +26,10 @@ figcaption {
 }
 
 .myName {
-  color: lightgoldenrodyellow;
+  color: whitesmoke;
+}
+
+.lists {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: medium;
 }
