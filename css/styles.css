@@ -6,6 +6,10 @@ h1, h2 {
   text-decoration: underline;
 }
 
+.pagetext {
+  padding-left: 15px;
+}
+
 img {
   /* box-shadow: 4px 4px 7px grey; */
   float: right;
@@ -19,4 +23,8 @@ figcaption {
   clear: both;
   float: right;
   padding-right: 15px;
+}
+
+.myName {
+  color: lightgoldenrodyellow;
 }
