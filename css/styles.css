@@ -1,0 +1,22 @@
+body {
+  background-color: lightskyblue;
+}
+
+h1, h2 {
+  text-decoration: underline;
+}
+
+img {
+  /* box-shadow: 4px 4px 7px grey; */
+  float: right;
+  background-color: whitesmoke;
+  padding: 15px;
+  border-style: double;
+  margin: 10px;
+}
+
+figcaption {
+  clear: both;
+  float: right;
+  padding-right: 15px;
+}
